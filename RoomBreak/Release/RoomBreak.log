@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (CG2016_0.2.4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\e\opengl\roombreak\roombreak\ghost.h(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\ghost.h(30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\ghost.h(43): warning C4305: “+=”: 从“double”到“float”截断
+d:\e\opengl\roombreak\roombreak\CollisionDetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\e\opengl\roombreak\roombreak\vector.h(51): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\CollisionDetection.h(103): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\e\opengl\roombreak\roombreak\view.h(46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\view.h(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\view.h(136): warning C4305: “=”: 从“double”到“float”截断
+d:\e\opengl\roombreak\roombreak\view.h(147): warning C4305: “=”: 从“double”到“float”截断
+d:\e\opengl\roombreak\roombreak\view.h(152): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\view.h(183): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\view.h(207): warning C4244: “参数”: 从“GLdouble”转换到“float”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\view.h(211): warning C4244: “参数”: 从“GLdouble”转换到“float”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\texture.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\e\opengl\roombreak\roombreak\class.h(406): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\e\opengl\roombreak\roombreak\box.h(86): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\box.h(87): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\box.h(88): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\box.h(89): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\e\opengl\roombreak\roombreak\mouse.h(222): warning C4305: “参数”: 从“double”到“float”截断
+d:\e\opengl\roombreak\roombreak\mouse.h(224): warning C4305: “参数”: 从“double”到“float”截断
+d:\e\opengl\roombreak\roombreak\mouse.h(226): warning C4305: “参数”: 从“double”到“float”截断
+d:\e\opengl\roombreak\roombreak\mouse.h(228): warning C4305: “参数”: 从“double”到“float”截断
+main.cpp(78): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+main.cpp(78): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+main.cpp(79): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+main.cpp(79): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+main.cpp(80): warning C4838: 从“double”转换到“const GLfloat”需要收缩转换
+main.cpp(80): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+main.cpp(140): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(141): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(142): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(143): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(144): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(146): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+main.cpp(151): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+main.cpp(156): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+main.cpp(161): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+main.cpp(167): warning C4838: 从“int”转换到“GLfloat”需要收缩转换
+main.cpp(167): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+main.cpp(233): warning C4305: “参数”: 从“double”到“float”截断
+main.cpp(357): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+main.cpp(414): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  All 978 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  RoomBreak.vcxproj -> D:\E\OpenGL\RoomBreak\Release\RoomBreak.exe
+  RoomBreak.vcxproj -> D:\E\OpenGL\RoomBreak\Release\RoomBreak.pdb (Full PDB)

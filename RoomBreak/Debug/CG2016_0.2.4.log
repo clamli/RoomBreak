@@ -1,0 +1,88 @@
+﻿生成启动时间为 2017/1/10 0:18:56。
+     1>项目“D:\Project\VS2015\GL\CG2016_0.2.4\CG2016_0.2.4\CG2016_0.2.4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\ghost.h(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\ghost.h(30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\ghost.h(43): warning C4305: “+=”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\collisiondetection.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\vector.h(51): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\collisiondetection.h(103): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(136): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(147): warning C4305: “=”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(152): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(183): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(207): warning C4244: “参数”: 从“GLdouble”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\view.h(211): warning C4244: “参数”: 从“GLdouble”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\texture.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\class.h(406): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\box.h(86): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\box.h(87): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\box.h(88): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\box.h(89): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\mouse.h(222): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\mouse.h(224): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\mouse.h(226): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\mouse.h(228): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(110): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(111): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(112): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(113): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(114): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(116): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(121): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(126): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(131): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(197): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(298): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\project\vs2015\gl\cg2016_0.2.4\cg2016_0.2.4\main.cpp(355): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\VS2015\GL\CG2016_0.2.4\Debug\CG2016_0.2.4.exe" /INCREMENTAL /NOLOGO freeglut_staticd.lib freeglut_static.lib opencv_ml248d.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_nonfree248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_videostab248d.lib opencv_objdetect248.lib opencv_ts248.lib opencv_video248.lib opencv_nonfree248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_videostab248.lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Project\VS2015\GL\CG2016_0.2.4\Debug\CG2016_0.2.4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\VS2015\GL\CG2016_0.2.4\Debug\CG2016_0.2.4.lib" /MACHINE:X86 Debug\main.obj
+     1>freeglut_staticd.lib(fg_callbacks.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_callbacks.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_cursor.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_cursor.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_display.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_display.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_ext.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_ext.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_font_data.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_font_data.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_gamemode.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_gamemode.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_geometry.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_geometry.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_gl2.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_gl2.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_init.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_init.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_input_devices.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_input_devices.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_joystick.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_joystick.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_main.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_main.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_misc.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_misc.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_overlay.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_overlay.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_spaceball.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_spaceball.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_state.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_state.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_stroke_mono_roman.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_stroke_mono_roman.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_stroke_roman.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_stroke_roman.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_structure.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_structure.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_teapot.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_teapot.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_videoresize.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_videoresize.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_window.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_window.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_font.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_font.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_menu.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_menu.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_cursor_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_cursor_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_display_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_display_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_ext_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_ext_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_gamemode_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_gamemode_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_init_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_init_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_input_devices_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_input_devices_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_joystick_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_joystick_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_main_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_main_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_menu_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_menu_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_spaceball_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_spaceball_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_state_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_state_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_structure_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_structure_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(fg_window_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_window_mswin.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>freeglut_staticd.lib(xparsegeometry_repl.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(xparsegeometry_repl.obj)”或在“D:\Project\VS2015\GL\CG2016_0.2.4\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         CG2016_0.2.4.vcxproj -> D:\Project\VS2015\GL\CG2016_0.2.4\Debug\CG2016_0.2.4.exe
+     1>已完成生成项目“D:\Project\VS2015\GL\CG2016_0.2.4\CG2016_0.2.4\CG2016_0.2.4.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.56
